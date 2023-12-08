@@ -1,22 +1,35 @@
-<h1>Hello There, I am Miroslav Černý<h1>
-<h2>About me </h2>
-- I am 3D generalist, animator, motion deigner, illustrator, basic graphic designer,nerd and genle soul. I love stories and always tring to find the way to tell them. 
-<h2>My story so far<h2>
- - My small person is from Hostivice, which is litlle town on the west side of the Prague, where i spend most of my life so far. As many of us, i didnt really knew, who i want to be or what i want to do. Ohter kids in kindergarden wanted to be firefighters, astronouts, policman, beacuse it was just the time befor world get know the word influencer.
- - Stuied gymnasium, where i learnd everything and nothing at the same time, which is astonishing. After that came the question. What to do? And i answerd graphic designe. Couple months passed and i answerd the same question. No....concept art for games. After next couple months i answerd to that question again with answer of UX/UI designe. After that the answers were in cycle like never ending story. And finally after this shaningens, came the answer animation and 3D.
- - So thats my little story sume up in few blocks of text. I dont know if the question what to do will come yet agin. Bu I do know, that
-  
-<h2>My Work</h2>
-<h3>3D Work</h3>
-- 3D has so many options and so many possibilities, that it is impossible to write it down 
+# Hello there, I am Miroslav Černý
+![profil](https://github.com/MirekCernyIV/english-for-designers1/assets/149397901/ef27686d-1dcd-4873-804b-9c1e3cfcea10)
 
-<h3>2D work</h3>
-- When i am exhousted from 3D i some times take vacation in motion graphics. Thigs are there just on dimesion less complicated. 
+## About
 
-<h3>Hobby</h3>
--When i have some time on my hands. I usually spent it on some illustrations, but mainly on my student film.
 
-- Animated film is one big pile of endless solutions to infinty problems. Obvzlášt when you are doing it alone. I have to take care of script, storyboards, character designe, background designe, rigging, animatics, 3D modeling, animation, compositing and dabing. Howeever the biggist challange in making your own film. Is forgeting ideas and let it go. Because, when you work something complex like this. One small idea, that comes to you in shower. Can influenc other branchis and suddenly. You find yourself, changing the script just befor the deadline. 
 
-  --------------------------------------------------------------------------------------------------------
-  - s
+<!-- Consider including a headshot. We’re not designing, so keep the image width/height around 320px x 320px (square). Replace "surname" with your surname in the file name. -->
+I am 3D generalist, VFX/video editor, motion deigner, illustrator, basic graphic designer, nerd and genle soul. I love stories and finding ways to tell them. 
+
+
+## My projects 
+
+A short description about the work.
+
+### Featured Project 1 Title
+
+<!-- Use a static poster image or animated GIF, but no video files. Again, keep the image width/height manageable, around 1280x x 720px (16:9 aspect ratio), or a max-width of 1280px. -->
+
+![Write an alternative text description.](img/featured-project-01.png)
+
+- A short description about the project — *the what*.
+- A short description about the significance of the project — *the whys*.
+- A short description about the outcome of the project — *the result or takeaway*.
+
+<!-- Use the same stucture above for the rest of your featured projects. -->
+
+## Notes
+
+Numbered comments about each featured project as presenter notes or speaking points.
+
+1. …
+2. …
+3. …
+<!-- And so on. -->
