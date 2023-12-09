@@ -3,24 +3,22 @@
 
 ## About
 
-I am 3D generalist, VFX/video editor, motion deigner, illustrator, basic graphic designer, nerd and genle soul. I love stories and finding ways to tell them. Plus i have only one good photo of myself. So naturally, i use it everywhere. 
-
-Sometimes I am amazed
+I am a 3D generalist, VFX/video editor, motion designer, illustrator, basic graphic designer, nerd, and gentle soul. I love stories and finding ways to tell them. Plus, I have only one good photo of myself. So naturally, I use it everywhere.
 
 
 ## My projects 
 
 ## 3D work
 
-Music visualizer are alwayes fun, beacuse you are tring to put togheter music and video. Two complatly separate fields of creativity, but they are so rewarding, when you catch the right momnent and suddenly it all works. 
+Music visualizers are always fun, because you are trying to put together music and video, two completely separate fields of creativity. But it is so rewarding when you catch the right moment, and suddenly it all works
 
-Some times i do some small visualisations of architercture, like this one. Those project are most of the time very relaxing. You dont have to think creativly. You just go by the blueprint and thats it. 
+Sometimes I do some small visualizations of architecture, like this one. Those projects are most of the time very relaxing. You don't have to think creatively. You just go by the blueprint, and that's it. The window for error is very very small.
 
 ## 2D work
-When i am little tired of 3D, I take vacation in motion graphics. THere are things just one dimesnsion less complicated. 
+When I am a little tired of 3D, I take a vacation in motion graphics. There are things just one dimension less complicated.
 
 
-This was my work for city, hostivice, where i was doing animation of their logo. This project was pretty signicficant for me, because it was my first logo animation work. 
+This was my work for the city of Hostivice, where I was doing the animation of their logo. There, I was trying to tell the story of people who come together and generate ideas to make their city better, which was the main goal of the project. This project was pretty significant for me because it was my first logo animation work.
 
 ## Hobby
 
@@ -37,8 +35,5 @@ This was my work for city, hostivice, where i was doing animation of their logo.
 - A short description about the project — *the what*. - My biggest curent project is stident film, where i am working on script, storyboards concept art, 3D modeling, rigging, dabing, animation and compositing. This film
 - A short description about the significance of the project — *the whys*. This project is pretty significant for me from, because it is on theme, which is very known (procasrtination) and i can try many ceative fields. 
 - A short description about the outcome of the project — *the result or takeaway*. 
-
-## 2D
-
 
 
