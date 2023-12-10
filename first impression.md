@@ -12,7 +12,15 @@ Plus, I have only one good photo of myself. So naturally, I use it everywhere.
 ## My projects 
 
 ## 3D work
+
+![visalizer](https://github.com/MirekCernyIV/english-for-designers1/assets/149![house](https://github.com/MirekCernyIV/english-for-designers1/assets/149397901/b9602081-7a44-4f7d-a642-2e3488222213)
+397901/1c01cfe7-b9d0-4d6c-8cc4-e21e79b651f4)
+
+
 Music visualizers are always fun, because you are trying to put together music and video, two completely separate fields of creativity. But it is so rewarding when you catch the right moment, and suddenly it all works
+
+![Uploading house.png…]()
+
 
 Sometimes I do some small visualizations of architecture, like this one. Despite the fact that almost everything is on the blueprint, you still need to use a little bit of creativity for the interior. So, for a brief moment, I become an interior designer. Who knows, which type of wood is best for the floor, which for the ceiling, and all kinds of this stuff.
 
@@ -25,6 +33,9 @@ This was my work for the city of Hostivice, where I was doing the animation of t
 ## What i do in the shadows (Hope you cought the referenc)
 
 ### Illustrations
+![my little ilustratioons](https://github.com/MirekCernyIV/english-for-designers1/assets/149397901/34ed103f-2528-4ed5-ad97-963518386590)
+
+
 - When i have some time on my hands i use it to draw. I love mythology and history, so i am traing combine these topics togheter with more modern styles. Like the hypster Odin, circle of life,
 -Sometimes i just want draw, what come to my mind like Brain jazz or Happy a trash.
 ### Student film
