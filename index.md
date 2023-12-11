@@ -1,7 +1,7 @@
 # Hello there, I am Miroslav Černý
 ![profil](https://github.com/MirekCernyIV/english-for-designers1/assets/149397901/ef27686d-1dcd-4873-804b-9c1e3cfcea10)
 
-## Litlle about my human being
+## Little about my human being
 
 I am a 3D generalist, VFX/video editor, motion designer, illustrator, basic graphic designer, nerd, and gentle soul.
 - So in another words you can say. i convert texts and paragraphs into pictures and it just depends on you how many of them fo you want and how fast they will go.
@@ -38,7 +38,8 @@ Music visualizers are always fun, because you are trying to put together music a
 
 # MISS 2023
 ![obrazek_2023-09-27_083909109-removebg-preview-12](https://github.com/MirekCernyIV/english-for-designers1/assets/149397901/1e69812c-85a9-45b9-8f35-a9872d8c6ffa)
-- I was fortunate to work in post-production on Miss 2023. I was helping in preparing for this event. This was a huge experience for me in terms of working with a big television network like NOVA.
+- I was fortunate to work in post-production on Miss 2023. I was removing bacground behind models. So it could be used on stage.
+- This was a huge experience for me in terms of working with a big television network like NOVA.
 ## What i do in the shadows/ My free time 
 
 ### Illustrations
@@ -60,6 +61,7 @@ Music visualizers are always fun, because you are trying to put together music a
 
 - This project is pretty significant for me because I have the chance to try different fields and learn new skills. 
 
-  
+![meme](https://github.com/MirekCernyIV/english-for-designers1/assets/149397901/34c0ec31-10f1-4c86-b3ca-d82e1ad0bac0)
+
 
 
