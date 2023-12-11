@@ -13,19 +13,20 @@ Plus, I have only one good photo of myself. So naturally, I use it everywhere.
 
 ## 3D work
 
-![visalizer](https://github.com/MirekCernyIV/english-for-designers1/assets/149![house](https://github.com/MirekCernyIV/english-for-designers1/assets/149397901/b9602081-7a44-4f7d-a642-2e3488222213)
-397901/1c01cfe7-b9d0-4d6c-8cc4-e21e79b651f4)
+![visalizer](https://github.com/MirekCernyIV/english-for-designers1/assets/149397901/6d6e86de-68cb-4bbe-805c-3ba7625753aa)
+
 
 
 Music visualizers are always fun, because you are trying to put together music and video, two completely separate fields of creativity. But it is so rewarding when you catch the right moment, and suddenly it all works
 
-![Uploading house.png…]()
-
+![house](https://github.com/MirekCernyIV/english-for-designers1/assets/149397901/31a93ae2-6945-4726-ba4d-3b4690c9cf1b)
 
 Sometimes I do some small visualizations of architecture, like this one. Despite the fact that almost everything is on the blueprint, you still need to use a little bit of creativity for the interior. So, for a brief moment, I become an interior designer. Who knows, which type of wood is best for the floor, which for the ceiling, and all kinds of this stuff.
 
+
 ## 2D work
 When I am a little tired of 3D, I take a vacation in motion graphics. There are things just one dimension less complicated.
+![tvoje hostivice](https://github.com/MirekCernyIV/english-for-designers1/assets/149397901/14a2f8ea-48dd-4a5a-b9e6-dd0a1db2c525)
 
 
 This was my work for the city of Hostivice, where I was doing the animation of their logo. There, I was trying to tell the story of people. That come together and generate ideas to make their city better, which was the main goal of the project. This work was pretty significant for me because it was my first logo animation work.
@@ -44,7 +45,7 @@ This was my work for the city of Hostivice, where I was doing the animation of t
 
 
  - My biggest curent project is stident film, where i am working on script, storyboards, animatics, concept art, 3D modeling, rigging, dabing, animation and compositing........so sometimes it can be little bit overwhelming.
-- Despite eache of these categories brings completly new and different problem. The biggest chllange for me is to forget ideas. It is very common, that suddenly, i come with new way to tell the story and out of blue i cathc my self changing the whole script.
-- This project is pretty significant for me from, because it is on theme, which is very known (procasrtination) and i can try many ceative fields. 
+- Despite eache of these categories brings completly new and different problem. The biggest chllange for me is to forget ideas. It is very common, that suddenly, i come with new way to tell the story and out of blue i catch myself changing the whole script.
+- This project is pretty significant for me, beacuse i have chance to try different fields. And find, that interests me mmost. 
 
 
