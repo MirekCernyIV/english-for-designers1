@@ -29,12 +29,16 @@ Music visualizers are always fun, because you are trying to put together music a
 
 ## 2D work
 - When I am a little tired of 3D, I take a vacation in motion graphics. There are things just one dimension less complicated.
+# TVOJE Hostivice
 ![tvoje hostivice](https://github.com/MirekCernyIV/english-for-designers1/assets/149397901/14a2f8ea-48dd-4a5a-b9e6-dd0a1db2c525)
 
 
 - This was my work for the city of Hostivice, where I was doing the animation of their logo. There, I was trying to tell the story of people, who come with ideas to make their city better. That was the main goal of the project.
 - This work was pretty significant for me because it was my first logo animation work.
 
+# MISS 2023
+![obrazek_2023-09-27_083909109-removebg-preview-12](https://github.com/MirekCernyIV/english-for-designers1/assets/149397901/1e69812c-85a9-45b9-8f35-a9872d8c6ffa)
+- I was fortunate to work in postproductaion on miss 2O23. This was huge for me in terms of exppireinec with big television.
 ## What i do in the shadows/ My free time 
 
 ### Illustrations
