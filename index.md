@@ -55,7 +55,7 @@ Music visualizers are always fun, because you are trying to put together music a
 
 
 
- -My greatest current project is a student film where I am working on the script, storyboards, animatics, concept art, 3D modeling, rigging, dubbing, animation, and compositing.  So sometimes, it can be a little bit overwhelming.
+- My greatest current project is a student film where I am working on the script, storyboards, animatics, concept art, 3D modeling, rigging, dubbing, animation, and compositing.  So sometimes, it can be a little bit overwhelming.
 
 - Despite each of these categories bringing completely new and different problems, the biggest challenge for me is to forget ideas. It is very common that suddenly, I come up with a new way to tell the story, and out of the blue, I catch myself changing the whole script.
 
