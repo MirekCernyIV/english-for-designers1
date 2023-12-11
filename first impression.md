@@ -34,7 +34,7 @@ Music visualizers are always fun, because you are trying to put together music a
 - This was my work for the city of Hostivice, where I was doing the animation of their logo. There, I was trying to tell the story of people, who come with ideas to make their city better. That was the main goal of the project.
 - This work was pretty significant for me because it was my first logo animation work.
 
-## What i do in the shadows (Hope you cought the referenc)
+## What i do in the shadows/ My free time 
 
 ### Illustrations
 ![my ilustrations](https://github.com/MirekCernyIV/english-for-designers1/assets/149397901/c9220056-12cb-4b5d-ba20-a9c797fb01e9)
