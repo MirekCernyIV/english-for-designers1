@@ -13,7 +13,7 @@ I am a 3D generalist, VFX/video editor, motion designer, illustrator, basic grap
 ## My projects 
 
 ## 3D work
-
+#VIsualizer
 ![visalizer](https://github.com/MirekCernyIV/english-for-designers1/assets/149397901/6d6e86de-68cb-4bbe-805c-3ba7625753aa)
 
 
@@ -38,7 +38,7 @@ Music visualizers are always fun, because you are trying to put together music a
 
 # MISS 2023
 ![obrazek_2023-09-27_083909109-removebg-preview-12](https://github.com/MirekCernyIV/english-for-designers1/assets/149397901/1e69812c-85a9-45b9-8f35-a9872d8c6ffa)
-- I was fortunate to work in postproductaion on miss 2O23. This was huge for me in terms of exppireinec with big television.
+- I was fortunate to work in post-production on Miss 2023. I was helping in preparing for this event. This was a huge experience for me in terms of working with a big television network like NOVA.
 ## What i do in the shadows/ My free time 
 
 ### Illustrations
@@ -56,9 +56,9 @@ Music visualizers are always fun, because you are trying to put together music a
 
  -My greatest current project is a student film where I am working on the script, storyboards, animatics, concept art, 3D modeling, rigging, dubbing, animation, and compositing.  So sometimes, it can be a little bit overwhelming.
 
-Despite each of these categories bringing completely new and different problems, the biggest challenge for me is to forget ideas. It is very common that suddenly, I come up with a new way to tell the story, and out of the blue, I catch myself changing the whole script.
+- Despite each of these categories bringing completely new and different problems, the biggest challenge for me is to forget ideas. It is very common that suddenly, I come up with a new way to tell the story, and out of the blue, I catch myself changing the whole script.
 
-This project is pretty significant for me because I have the chance to try different fields and learn new skills. 
+- This project is pretty significant for me because I have the chance to try different fields and learn new skills. 
 
   
 
