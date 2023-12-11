@@ -37,7 +37,8 @@ Music visualizers are always fun, because you are trying to put together music a
 ## What i do in the shadows (Hope you cought the referenc)
 
 ### Illustrations
-![my little ilustratioons](https://github.com/MirekCernyIV/english-for-designers1/assets/149397901/34ed103f-2528-4ed5-ad97-963518386590)
+![my ilustrations](https://github.com/MirekCernyIV/english-for-designers1/assets/149397901/c9220056-12cb-4b5d-ba20-a9c797fb01e9)
+
 
 
 - When I have some time on my hands, I use it to draw. I love mythology and history, so I am trying to combine these topics together with more modern styles, like the hipster Odin or Circle of life (where the 3 lizards reprezent three differnet religions) 
