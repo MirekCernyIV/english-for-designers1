@@ -15,12 +15,6 @@ I am a 3D generalist, VFX/video editor, motion designer, illustrator, basic grap
 ## 3D work
 ### VIsualizer
 
-![visalizer](https://github.com/MirekCernyIV/english-for-designers1/assets/149397901/6d6e86de-68cb-4bbe-805c-3ba7625753aa)
-
-
-
-Music visualizers are always fun, because you are trying to put together music and video, two completely separate fields of creativity. But it is so rewarding when you catch the right moment, and suddenly it all works
-
 ![my ilustrations](https://github.com/MirekCernyIV/english-for-designers1/assets/149397901/c568ce05-da21-4e2b-9bd7-493da7c510cc)
 
 
@@ -42,6 +36,13 @@ Music visualizers are always fun, because you are trying to put together music a
 - I was fortunate to work in post-production on Miss 2023. I was removing bacground behind models. So it could be used on stage.
 - This was a huge experience for me in terms of working with a big television network like NOVA.
 ## What i do in the shadows/ My free time 
+
+![visalizer](https://github.com/MirekCernyIV/english-for-designers1/assets/149397901/6d6e86de-68cb-4bbe-805c-3ba7625753aa)
+
+
+
+Music visualizers are always fun, because you are trying to put together music and video, two completely separate fields of creativity. But it is so rewarding when you catch the right moment, and suddenly it all works
+
 
 ### Illustrations
 ![my ilustrations](https://github.com/MirekCernyIV/english-for-designers1/assets/149397901/c9220056-12cb-4b5d-ba20-a9c797fb01e9)
