@@ -52,7 +52,8 @@ Music visualizers are always fun, because you are trying to put together music a
 - These things are just something, that i do to relax my little smooth brain. 
 ### Student film
 
-![film ](https://github.com/MirekCernyIV/english-for-designers1/assets/149397901/a1471391-7c5a-47e0-8c7f-e415b766e1d3)
+![the future is maniac](https://github.com/MirekCernyIV/english-for-designers1/assets/149397901/a3c1d36a-88dd-46f6-a7a1-3218ece7a84b)
+
 
 
 
