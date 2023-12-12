@@ -13,7 +13,8 @@ I am a 3D generalist, VFX/video editor, motion designer, illustrator, basic grap
 ## My projects 
 
 ## 3D work
-#VIsualizer
+### VIsualizer
+
 ![visalizer](https://github.com/MirekCernyIV/english-for-designers1/assets/149397901/6d6e86de-68cb-4bbe-805c-3ba7625753aa)
 
 
@@ -29,14 +30,14 @@ Music visualizers are always fun, because you are trying to put together music a
 
 ## 2D work
 - When I am a little tired of 3D, I take a vacation in motion graphics. There are things just one dimension less complicated.
-# TVOJE Hostivice
+### TVOJE Hostivice
 ![tvoje hostivice](https://github.com/MirekCernyIV/english-for-designers1/assets/149397901/14a2f8ea-48dd-4a5a-b9e6-dd0a1db2c525)
 
 
 - This was my work for the city of Hostivice, where I was doing the animation of their logo. There, I was trying to tell the story of people, who come with ideas to make their city better. That was the main goal of the project.
 - This work was pretty significant for me because it was my first logo animation work.
 
-# MISS 2023
+### MISS 2023
 ![obrazek_2023-09-27_083909109-removebg-preview-12](https://github.com/MirekCernyIV/english-for-designers1/assets/149397901/1e69812c-85a9-45b9-8f35-a9872d8c6ffa)
 - I was fortunate to work in post-production on Miss 2023. I was removing bacground behind models. So it could be used on stage.
 - This was a huge experience for me in terms of working with a big television network like NOVA.
