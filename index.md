@@ -1,6 +1,11 @@
 # Hello there, I am Miroslav Černý
 ![profil](https://github.com/MirekCernyIV/english-for-designers1/assets/149397901/ef27686d-1dcd-4873-804b-9c1e3cfcea10)
 
+
+
+- Hello
+- Work
+- Writing
 ## Little about my human being
 
 I am a 3D generalist, VFX/video editor, motion designer, illustrator, basic graphic designer, nerd, and gentle soul.
