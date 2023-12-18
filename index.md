@@ -31,10 +31,6 @@ I am a 3D generalist, VFX/video editor, motion designer, illustrator, basic grap
 - This was my work for the city of Hostivice, where I was doing the animation of their logo. There, I was trying to tell the story of people, who come with ideas to make their city better. That was the main goal of the project.
 - This work was pretty significant for me because it was my first logo animation work.
 
-### MISS 2023
-![obrazek_2023-09-27_083909109-removebg-preview-12](https://github.com/MirekCernyIV/english-for-designers1/assets/149397901/1e69812c-85a9-45b9-8f35-a9872d8c6ffa)
-- I was fortunate to work in post-production on Miss 2023. I was removing bacground behind models. So it could be used on stage.
-- This was a huge experience for me in terms of working with a big television network like NOVA.
 ## What i do in the shadows/ My free time 
 
 ![visalizer](https://github.com/MirekCernyIV/english-for-designers1/assets/149397901/6d6e86de-68cb-4bbe-805c-3ba7625753aa)
