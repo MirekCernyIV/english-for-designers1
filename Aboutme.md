@@ -6,6 +6,6 @@
   - motion designer
   - illustrator
   - and i take care of one crazy snowball dog
-- As many other for the good portion of my life i dodnt really know, what i wanted to d o
+- I can say and i am happy for option, that i could find myself. I didnt go to any art school, so wasnt shaped 
 - Like any other introvert, I prefer to work alone, but I love good colaboration and sitations, when people get tohgeter and make something amazing.
 - 
