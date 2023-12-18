@@ -1,6 +1,6 @@
 
 ## 3D work
-### VIsualizer
+### VIsualizerbb
 
 ![my ilustrations](https://github.com/MirekCernyIV/english-for-designers1/assets/149397901/c568ce05-da21-4e2b-9bd7-493da7c510cc)
 
