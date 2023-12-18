@@ -4,7 +4,7 @@
 
 
 - About me 
-- [Work](work1)
+- [Work](work1.md)
 - [Writing](Draft.md)
 - 
 ## Little about my human being
