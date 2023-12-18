@@ -5,7 +5,7 @@
 
 - Hello
 - Work
-- Writing
+- [Writing](Draft.md)
 ## Little about my human being
 
 I am a 3D generalist, VFX/video editor, motion designer, illustrator, basic graphic designer, nerd, and gentle soul.
