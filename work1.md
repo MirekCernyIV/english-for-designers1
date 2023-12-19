@@ -9,12 +9,8 @@
 ## 3D motion graphics
 
 
-
-![funguje to](https://github.com/MirekCernyIV/english-for-designers1/assets/149397901/f641da5d-7c40-447f-89b3-d3d4cbbf146f)
-
-
-
--  On this project i was working, when i was on internship in PFX. I made evrything here, from animation, 3D modeling, riging and texturing.
+![my ilustrations wtf](https://github.com/MirekCernyIV/english-for-designers1/assets/149397901/42504fab-68c4-488a-a547-ffd1955073d9)
+-  On this project i was working, when i was on internship in PFX. I made evrything here, from animation, 3D modeling, riging and texturing. 
 -  I am fascinated with music. So whenever there is a chance to work on something remotely close to this topic, I take it without hesitation.
 
 
