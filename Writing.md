@@ -1,4 +1,4 @@
-
+- (back)][index.md]
 <h1>Who came with the world but</h1>
 I absolutely despise the word "but," and I believe I am not alone in my strong dislike for this word. This tiny winy innocent word wields a surprising amount of power, allowing anyone to leverage it to their advantage.
 My feelings toward this word can best be described as a love-hate relationship. I hate the word and what it can do, but I still find myself using it when I need to
