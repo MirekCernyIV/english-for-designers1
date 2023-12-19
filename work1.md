@@ -8,7 +8,10 @@
 
 ## 3D motion graphics
 
-<img width="1426" alt="Snímek obrazovky 2023-12-19 v 19 20 25" src="https://github.com/MirekCernyIV/english-for-designers1/assets/149397901/15c1daff-dff2-4176-a1f1-3fa96f665e59">
+
+
+![funguje to](https://github.com/MirekCernyIV/english-for-designers1/assets/149397901/f641da5d-7c40-447f-89b3-d3d4cbbf146f)
+
 
 
 -  On this project i was working, when i was on internship in PFX. I made evrything here, from animation, 3D modeling, riging and texturing.
