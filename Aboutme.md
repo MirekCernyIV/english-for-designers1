@@ -1,4 +1,8 @@
-#About me
+# About me 
+## How indecivnes lead me to work, that i do 
+
+- As many other 
+
 -- I can do
   - 3D artist
   - video editor
