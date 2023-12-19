@@ -8,7 +8,8 @@
 
 ## 3D motion graphics
 
-https://github.com/MirekCernyIV/english-for-designers1/assets/149397901/5149d4d8-e67a-4f54-a90e-200c71143442
+<img width="1426" alt="Snímek obrazovky 2023-12-19 v 19 20 25" src="https://github.com/MirekCernyIV/english-for-designers1/assets/149397901/15c1daff-dff2-4176-a1f1-3fa96f665e59">
+
 
 -  On this project i was working, when i was on internship in PFX. I made evrything here, from animation, 3D modeling, riging and texturing.
 -  I am fascinated with music. So whenever there is a chance to work on something remotely close to this topic, I take it without hesitation.
