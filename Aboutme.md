@@ -1,15 +1,4 @@
 # About me 
-## How indecivnes lead me to work, that i do 
+## WHO Am I?
 
-- As many other 
-
--- I can do
-  - 3D artist
-  - video editor
-  - animator,
-  - motion designer
-  - illustrator
-  - and i take care of one crazy snowball dog
-- I can say and i am happy for option, that i could find myself. I didnt go to any art school, so wasnt shaped 
-- Like any other introvert, I prefer to work alone, but I love good colaboration and sitations, when people get tohgeter and make something amazing.
-- 
+This question is still very hard for me, because i think like every year i reinvent myself and starts to do things, which i never though i will do. 3D modeling, animation, video editing, VFX, illustrations all these thinks, that i can do, were things, that i wanted to avoid. 
