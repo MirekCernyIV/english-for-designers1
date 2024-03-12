@@ -1,1 +1,3 @@
-#I dont know what u an diubg 
+#I dont know what u an doing
+
+What does it mean 
